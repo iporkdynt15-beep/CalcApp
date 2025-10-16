@@ -49,7 +49,6 @@ fun CalcAppUi() {
 
     val n1 = num1Text.toDoubleOrNull() ?: 0.0
     val n2 = num2Text.toDoubleOrNull() ?: 0.0
-    var ans = 0
 
 
     Column(
